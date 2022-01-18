@@ -1,6 +1,6 @@
 # u-develop-it
 
-## SQL Database used to do the following:
+## SQL Database in order to do the following:
 
   * As a user, I can request a list of all potential candidates.
 
