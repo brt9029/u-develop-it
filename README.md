@@ -21,7 +21,7 @@
 - Enter ```npm i``` to install dependencies
 
 ## Usage
-- Log into MySQL by entering ```mysql -u <your-sql-username> -p>``` and in the following line enter your SQL password
+- Log into MySQL by entering ```mysql -u <your-sql-username> -p``` and in the following line enter your SQL password
 - Enter ```source db/db.sql``` to create the election database
 - Enter ```source db/schema.sql``` to create the tables inside the ```election``` database
 - Enter ```source db/seeds.sql``` to have the tables populated with data
