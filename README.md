@@ -28,6 +28,9 @@
 - Use ```npm start``` to start the server
 - Use an API client in order to make GET, POST, PUT, DELETE requests
 
+![API](https://user-images.githubusercontent.com/26530136/187099389-cfab16f4-16ca-4baf-bda6-d678e387522e.PNG)
+
+
 ## Credits
 Created by: [brt9029](wwww.github.com/brt9029 "GitHub Profile Link")
 
