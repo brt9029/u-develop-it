@@ -1,5 +1,8 @@
 # u-develop-it
-
+![brt9029](https://img.shields.io/badge/-node.js-brightgreen)
+![brt9029](https://img.shields.io/badge/-express.js-yellowgreen)
+![brt9029](https://img.shields.io/badge/-mysql2-blue)
+![brt9029](https://img.shields.io/badge/-mysql-orange)
 ## Description
 - Back end created for a voting application using MySQL
 - Created in order to review MySQL/MySQL2, Node.js and Express.js API usage
